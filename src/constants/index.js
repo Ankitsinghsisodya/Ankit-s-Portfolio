@@ -8,7 +8,7 @@ import  './index.css';
 
 
 export const HERO_CONTENT = `
-I am a Computer Science Engineering student at BIT Mesra, currently holding an <span className='italic text-xl text-gradient'>Expert rank on Codeforces (Max Rating: 1698)</span> and <span className='italic text-xl text-gradient'>Knight rank on LeetCode (Max Rating: 2100)</span>. 
+I am a Computer Science Engineering student at BIT Mesra, currently holding an <span className='italic text-xl text-gradient'>Expert rank on Codeforces (Max Rating: 1698)</span> and <span className='italic text-xl text-gradient'>Knight rank on LeetCode (Max Rating: 2139)</span>. 
 My competitive programming journey includes solving 1000+ problems on Codeforces and achieving notable ranks like <span className='italic text-xl text-gradient'> <a href='https://www.facebook.com/codingcompetitions/hacker-cup/2024/certificate/1029241675873927'>All India Rank 505 in Meta Hacker Cup </a> </span> and <span className='italic text-xl text-gradient'><a href='https://codeforces.com/contest/1996/standings/participant/187434533#p187434533'>Global rank 179 in codeforces Div 3 Round 962</a></span>.<br><br>
 
 In addition to competitive programming, I excel in full-stack web development, specializing in  <span className='italic text-bold text-gradient'> Next.js, React.js,  and databases like MongoDB and MySQL</span>. 

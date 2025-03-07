@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 import Button from "@mui/material/Button";
 import profilePic from "../assets/Ankit_lc.webp";
 import { FaDownload } from "react-icons/fa";
-import resume from "../assets/Ankit-resume.pdf";
+import resume from "../assets/Ankit.pdf";
 import { Spotlight } from "./Spotlight.jsx";
 import { FlipWords } from "./Flip.jsx";
 import { ButtonsCard } from "./Buttons.jsx";
